@@ -1,2 +1,2 @@
-# imdb-movies-API
-Flask API application  deployed on heroku: https://marketa-movies-app.herokuapp.com/ 
+# movie-recommender-api
+Movie recommender API done in Flask.
