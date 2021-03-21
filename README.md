@@ -1,4 +1,4 @@
-# movie-recommender-api
+# Movies API (movie recommender included in the code, not deployment on heroku)
 
 Movie recommender API done in Flask.
 
