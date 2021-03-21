@@ -4,7 +4,7 @@
 Movie recommender API done in Flask.
 
 Deployed on heroku 
-!!! The deployment works only as a demonstration of deployment of a Flask api, the free account cappacity doesn't allow the movie reccomender system to work and ends up in a app crash - if the app is crashed, please do let me know and I'll restart it.
+!!! The deployment works only as a demonstration of deployment of a Flask api, the free account cappacity doesn't allow the movie reccomender system to work and ends up in an app crash - if the app is crashed, please do let me know and I'll restart it.
 
  - to see all available movies (almost 10K): https://marketa-movies-app.herokuapp.com/api/v1/movies
  - to select movies from specific director (feel free to replace the name): https://marketa-movies-app.herokuapp.com/api/v1/directors?director=Tarantino
