@@ -13,7 +13,7 @@ Deployed on heroku
  - if you want a brief description of a movie: https://marketa-movies-app.herokuapp.com/api/v1/description?title=Batman
  - or if you want to get a list of movies filtered by keyword in the description: https://marketa-movies-app.herokuapp.com/api/v1/filter_by_kw?keyword=horror
 
-To see the code for these go through the app.py part: https://github.com/mvesela/imdb-movies-API/blob/main/app.py
+To see the code for these go through the app.py part: https://github.com/mvesela/imdb-movies-API/blob/main/app.py </br>
 To explore the more fancy/data sciency part - the movie recommender which works when you run the app locally see the movie_recommender.py (this is a basic implementation of a cosine similarity):  https://github.com/mvesela/imdb-movies-API/blob/main/movie_recommender.py
 
 As a bonus for SW/Mandalorian fans I implemented custom 404: https://marketa-movies-app.herokuapp.com/api/v1/movie
